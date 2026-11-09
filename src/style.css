@@ -16,3 +16,6 @@
 /* Keep the complete supplied image visible in both comparison modes. */
 .image-reveal{aspect-ratio:1}
 @media(max-width:600px){.hero h1{font-size:clamp(45px,12.5vw,62px);letter-spacing:-2.7px}.hero h1 em{letter-spacing:-2.5px}}
+
+.resource-pending{display:flex;align-items:center;padding:26px 0;border-bottom:1px solid var(--line)}.resource-pending small{display:block;font-size:9px;letter-spacing:.8px;color:#6c775f;margin-bottom:9px}.resource-pending strong{font-size:19px;font-weight:500}
+@media(max-width:600px){.resource-pending{padding:23px 0}.resource-pending small{font-size:8px}.resource-pending strong{font-size:18px}}

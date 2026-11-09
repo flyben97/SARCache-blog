@@ -15,5 +15,12 @@
     "request_times": "Preserved in point readouts",
     "paper_panels_bc": "Unchanged time axes"
   },
-  "publication_url": "https://flyben97.github.io/SARCache-blog/"
+  "publication_url": "https://flyben97.github.io/SARCache-blog/",
+  "supplement": {
+    "document": "SARCache_arxiv_supplement.pdf",
+    "sha256": "8201abdc23122364e585e589688bd15a31a5f7478846858da36a3a2bd77f2b9b",
+    "layout": "Standard article with manuscript authors and affiliations",
+    "content": "Unchanged supplementary scientific text, tables and diagnostic figures"
+  },
+  "code_availability": "Coming soon"
 }
