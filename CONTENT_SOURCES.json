@@ -1,0 +1,19 @@
+{
+  "manuscript": "SARCache_arxiv.pdf",
+  "image_case": "img_0253, seed 2; selected favorable case",
+  "source_image_sha256": "b988ea1bf90bb2e2dc5a75e143140fa945030428703468adcd2ce6d7c995f9bf",
+  "image_operations": "Identical supplied panel extraction, lossless WebP encoding. No image generation or model inference.",
+  "data": "25 audited E2 operating points, actual time and supplied metrics. PSNR infinity represented as null in chart JSON.",
+  "paper_sha256": "3b14260ddbf41a36a4e4709865463bab67fe3711aec3cacfe01c7b6c12d91a79",
+  "speedup_axis": {
+    "source_column": "speedup",
+    "source": "Unchanged audited operating-points.csv",
+    "baseline_times_s": {
+      "methods": 6.282,
+      "official": 6.268
+    },
+    "request_times": "Preserved in point readouts",
+    "paper_panels_bc": "Unchanged time axes"
+  },
+  "publication_url": "https://flyben97.github.io/SARCache-blog/"
+}
